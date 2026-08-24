@@ -2,7 +2,15 @@
 
 OpenReader is designed to process PDFs locally. It does not upload files or call network services.
 
-If you discover a security issue, please open a GitHub issue with a clear description and reproduction steps. Avoid sharing private or sensitive PDF files in public issues.
+If you discover a security issue, please report it privately — do not open a public issue.
+
+Use GitHub's private vulnerability reporting:
+
+1. Open the **Security** tab of this repository.
+2. Click **Report a vulnerability**.
+3. Complete the form with as much detail as you can provide.
+
+Include: a clear description of the issue, reproduction steps, the OpenReader version or commit, and whether any PDF data could be exposed. Avoid sharing private or sensitive PDF files unless necessary.
 
 ## Supported Versions
 
